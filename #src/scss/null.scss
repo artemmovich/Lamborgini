@@ -72,11 +72,15 @@ a:visited {
 a:hover {
 	text-decoration: none;
 }
+a {
+	color: inherit;
+}
 ul li {
 	list-style: none;
 }
 img {
 	vertical-align: top;
+	max-width:100%;
 }
 h1,
 h2,
